@@ -1,7 +1,7 @@
 # ✒️ Happy Guest
 Projeto Informático Final de Licenciatura -> IPL 22/23
 
-Desenvolvimento de uma aplicação para smartphone (android) e web que permita 
+Desenvolvimento de uma aplicação para smartphone (android) e web que permita <br>
 melhorar os serviços e a comunicação entre o cliente e a unidade hoteleira.
 
 ## 🧑 Participantes:
@@ -9,7 +9,7 @@ melhorar os serviços e a comunicação entre o cliente e a unidade hoteleira.
 * Tomás Neves nº221747 -> 221747@ipleiria.pt
 
 ## 🔧 Info:
-Licenciatura Engenharia Informática
-Politécnico de Leiria - ESTG
+Licenciatura Engenharia Informática <br>
+ -> Politécnico de Leiria - ESTG
 
 Lavarel & Vue & Java
