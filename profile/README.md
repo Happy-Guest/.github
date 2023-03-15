@@ -9,6 +9,7 @@ melhorar os serviços e a comunicação entre o cliente e a unidade hoteleira.
 * Tomás Neves nº221747 -> 221747@ipleiria.pt
 
 ## 🔧 Info:
-Engenharia Informática
+Licenciatura Engenharia Informática
+Politécnico de Leiria - ESTG
 
 Lavarel & Vue & Java
