@@ -1,5 +1,5 @@
 # ✒️ Happy Guest
-Projeto Informático de final de Licenciatura -> IPL 22/23
+Projeto Informático Final de Licenciatura -> IPL 22/23
 
 Desenvolvimento de uma aplicação para smartphone (android) e web que permita 
 melhorar os serviços e a comunicação entre o cliente e a unidade hoteleira.
